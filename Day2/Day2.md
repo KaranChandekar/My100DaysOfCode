@@ -1,9 +1,10 @@
-# Day 2 / 11.45 am
+# Day 2 
 
-Half of the day, I learn HTML Tables!
+Today I learn HTML Tables and Forms!
 
-## What I learn in that:
+## What I learn in Tables:
 
+ - Table tag
  - Table head (thead)
  - Table body (tbody)
  - Table footer (tfooter)
@@ -13,7 +14,23 @@ Half of the day, I learn HTML Tables!
  - How to Type Emojis
  - Modified my HTML Personal Site
 
+## What I learn in Forms:
 
-## Screenshot
+ - form tag
+ - input tag
+ - lable tag
+ - type attribute
+ - input type text
+ - input type submit
+ - input type file
+ - input type date
+ - input type radio
+ - input type range
+ - Modified my HTML Personal Site
 
-[![day-2-11-45-am.png](https://i.postimg.cc/9Qt5fMNN/day-2-11-45-am.png)](https://postimg.cc/TKwH7Rxr)
+
+## Screenshots
+
+[![CV.png](https://i.postimg.cc/FR3jYRkv/CV.png)](https://postimg.cc/mzZcqTSp)
+
+[![Contact.png](https://i.postimg.cc/CKWGMD1J/Contact.png)](https://postimg.cc/R3L6XWwn)
