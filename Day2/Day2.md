@@ -2,7 +2,7 @@
 
 Half of the day, I learn HTML Tables!
 
-## What I larn in that:
+## What I learn in that:
 
  - Table head (thead)
  - Table body (tbody)
