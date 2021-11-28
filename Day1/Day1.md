@@ -2,7 +2,7 @@
 
 Today, I brush up my HTML learning!
 
-## What I larn today:
+## What I learn today:
 
  - The Anatomy of an HTML Tag
  - What is The HTML Boilerplate?
