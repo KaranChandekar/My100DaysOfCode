@@ -10,3 +10,8 @@ For more information click here - [Day 1](Day1/Day1.md)
 Today I learn HTML Tables and Forms!
 
 For more information click here - [Day 2](Day2/Day2.md)
+
+## Day 3
+Today I learn Basics of CSS!
+
+For more information click here - [Day 2](Day3/Day3.md)
