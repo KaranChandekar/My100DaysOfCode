@@ -14,4 +14,9 @@ For more information click here - [Day 2](Day2/Day2.md)
 ## Day 3
 Today I learn Basics of CSS!
 
-For more information click here - [Day 2](Day3/Day3.md)
+For more information click here - [Day 3](Day3/Day3.md)
+
+## Day 4
+Learnt more in CSS!
+
+For more information click here - [Day 4](Day4/Day4.md)
