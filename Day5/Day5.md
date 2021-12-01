@@ -1,8 +1,10 @@
-# Day 4
+# Day 5
 
-Learnt more in CSS!
+Making website more interactive!
 
-## Today I learn following CSS properties:
+## Today I work on styling my personal website:
+
+I used following properties to style my website,
 
  - What are Favicons?
  - HTML Divs

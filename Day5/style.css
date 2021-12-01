@@ -20,6 +20,17 @@ h1 {
     color: #45b29a;
 }
 
+p {
+    line-height: 2;
+}
+
+hr {
+    border: dotted rgb(202, 202, 202) 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
 #description {
     font-family: 'Balsamiq Sans', cursive;
     font-size: 120%;
@@ -38,20 +49,16 @@ h1 {
     padding: 100px 0;
 }
 
-.bottom_container {
-    
-}
-
 .top_cloud {
     position: absolute;
     right: 300px;
-    top: 50px;
+    top: 90px;
 }
 
 .bottom_cloud {
     position: absolute;
     left: 300px;
-    bottom: 300px;
+    bottom: 350px;
 }
 
 /* Middle Container  */
@@ -79,10 +86,9 @@ a {
 }
 
 .skill-row {
-    width: 50%;
+    width: 38%;
     margin: 100px auto;
     text-align: left;
-    line-height: 2;
 }
 
 .code_img {
@@ -95,4 +101,14 @@ a {
     width: 20%;
     float: right;
     margin-left: 50px;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+.contact_description {
+    width: 30%;
+    margin: 40px auto 60px;
 }

@@ -20,3 +20,8 @@ For more information click here - [Day 3](Day3/Day3.md)
 Learnt more in CSS!
 
 For more information click here - [Day 4](Day4/Day4.md)
+
+## Day 5
+Today I work on styling my personal website!
+
+For more information click here - [Day 5](Day5/Day5.md)
