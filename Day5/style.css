@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Clicker+Script&display=swap');
+
+/* Top Container  */
+
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: #40514e;
+}
+
+h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: 'Clicker Script', cursive;
+    font-size: 600%;
+    font-weight: 300;
+    color: #45b29a;
+}
+
+#description {
+    font-family: 'Balsamiq Sans', cursive;
+    font-size: 120%;
+    font-weight: 110px;
+    margin-top: 50;
+    color: #45b29a;
+}
+
+.top_container {
+    background-color: #E4f9f5;
+    padding-top: 100px;
+    position: relative;
+}
+
+.middle_container {
+    padding: 100px 0;
+}
+
+.bottom_container {
+    
+}
+
+.top_cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom_cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+/* Middle Container  */
+
+#profile_logo {
+    width: 145px;
+}
+
+h2 {
+    color: #1e836c;
+    font-family: 'Balsamiq Sans', cursive;
+    font-weight: normal;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+h3, hello {
+    color: #45b29a;
+    font-family: 'Balsamiq Sans', cursive;
+    font-weight: normal;
+}
+
+a {
+    color: #45b29a;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.code_img {
+    width: 20%;
+    float: left;
+    margin-right: 50px;
+}
+
+.chilli_img {
+    width: 20%;
+    float: right;
+    margin-left: 50px;
+}
