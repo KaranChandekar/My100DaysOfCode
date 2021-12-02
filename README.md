@@ -25,3 +25,8 @@ For more information click here - [Day 4](Day4/Day4.md)
 Today I work on styling my personal website!
 
 For more information click here - [Day 5](Day5/Day5.md)
+
+## Day 6
+Today I started to learn Bootstrap!
+
+For more information click here - [Day 6](Day5/Day6.md)
