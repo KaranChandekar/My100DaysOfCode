@@ -4,8 +4,9 @@ Started to learn Bootstrap!
 
 ## Today I started to learn Bootstrap:
 
-I use following bootstrap properties in this website,
+I learn following things in Bootstrap,
 
- - Bootstrap Navigation Bar
- - Bootstrap Grid Layout
- - other Styling properties
+ - What is Bootstrap?
+ - Installing Bootstrap
+ - Web Design 101 - Wireframing
+ - The Bootstrap Navigation Bar
