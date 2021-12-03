@@ -1,8 +1,8 @@
-# Day 6
+# Day 7
 
-Started to learn Bootstrap!
+Creating responsive website!
 
-## Today I started to learn Bootstrap:
+## Today I started to create responsive website using Bootstrap:
 
 I learn following things in Bootstrap,
 

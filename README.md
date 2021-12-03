@@ -29,4 +29,9 @@ For more information click here - [Day 5](Day5/Day5.md)
 ## Day 6
 Today I started to learn Bootstrap!
 
-For more information click here - [Day 6](Day5/Day6.md)
+For more information click here - [Day 6](Day6/Day6.md)
+
+## Day 7
+Creating responsive website!
+
+For more information click here - [Day 7](Day7/Day7.md)
