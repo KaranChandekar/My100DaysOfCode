@@ -4,7 +4,7 @@ Creating responsive website!
 
 ## Today I started to create responsive website using Bootstrap:
 
-I learn following things in Bootstrap,
+I use following bootstrap properties till now,
 
  - What is Bootstrap?
  - Installing Bootstrap
