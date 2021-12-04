@@ -22,6 +22,15 @@ h1 {
     line-height: 1.5;
 }
 
+h3 {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+p {
+    color: #8f8f8f;
+}
+
 /* Navigation Bar  */
 .navbar-brand {
     font-family: 'Ubuntu', sans-serif;
@@ -38,11 +47,32 @@ h1 {
     font-size: 1.2rem;
 }
 
+/* Download buttons  */
 .download-button {
     margin: 5% 3% 5% 0;
 }
 
+/* Title image */
 .title-image {
     width: 60%;
     transform: rotate(25deg);
+}
+
+/* Features section */
+#features {
+    padding: 7% 15%;
+}
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+
+.icon {
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.icon:hover {
+    color: #ff4c68;
 }

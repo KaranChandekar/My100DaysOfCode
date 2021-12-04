@@ -35,3 +35,8 @@ For more information click here - [Day 6](Day6/Day6.md)
 Creating responsive website!
 
 For more information click here - [Day 7](Day7/Day7.md)
+
+## Day 8
+Half done responsive website!
+
+For more information click here - [Day 8](Day8/Day8.md)
