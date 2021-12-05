@@ -40,3 +40,8 @@ For more information click here - [Day 7](Day7/Day7.md)
 Half done responsive website!
 
 For more information click here - [Day 8](Day8/Day8.md)
+
+## Day 9
+Making more fun with bootstrap!
+
+For more information click here - [Day 9](Day9/Day9.md)
