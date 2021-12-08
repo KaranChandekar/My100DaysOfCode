@@ -55,3 +55,8 @@ For more information click here - [Day 10](Day10/Day10.md)
 Finishing responsive website!
 
 For more information click here - [Day 11](Day11/Day11.md)
+
+## Day 12
+Revising HTML and CSS!
+
+For more information click here - [Day 12](Day12/Day12.md)
