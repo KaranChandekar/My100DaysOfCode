@@ -1,5 +1,5 @@
 # My100DaysOfCode
-make commitment, doing 100 daysofcode challenge
+Here I share my all learnings
 
 ## Day 1
 I brush up my HTML learning
