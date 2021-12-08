@@ -36,6 +36,13 @@ List of Basic HTML and HTML5 questions on freeCodeCamp
  - Define the head and body of an HTML
 
 
+## Screenshot
+
+Using HTML and HTML5
+
+[![Screenshot-2021-12-08-213623.png](https://i.postimg.cc/02W9zhSD/Screenshot-2021-12-08-213623.png)](https://postimg.cc/crnpj9XL)
+
+
 List of Basic CSS questions of freeCodeCamp
 
  - Change the Color of Text
@@ -84,3 +91,9 @@ List of Basic CSS questions of freeCodeCamp
  - Change a variable for a specific area
  - Use a media query to change a variable
 
+
+## Screenshot
+
+Using basic CSS
+
+[![Screenshot-2021-12-08-213542.png](https://i.postimg.cc/9fNxTtpx/Screenshot-2021-12-08-213542.png)](https://postimg.cc/R3KQxt2f)
