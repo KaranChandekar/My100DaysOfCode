@@ -1,0 +1,126 @@
+# Day 13
+
+Revising Applied Visuel Design!
+
+## Today I revise Applied Visuel Desing:
+
+For that I solve freeCodeCamp Responsive Web Design course questions,
+
+List of Applied Visual Design questions on freeCodeCamp
+
+ - Create Visual Balance Using the text-align Property
+ - Adjust the Width of an Element Using the width Property
+ - Adjust the Height of an Element Using the height Property
+ - Use the strong Tag to Make Text Bold
+ - Use the u Tag to Underline Text
+ - Use the em Tag to Italicize Text
+ - Use the s Tag to Strikethrough Text
+ - Create a Horizontal Line Using the hr Element
+ - Adjust the background-color Property of Text
+ - Adjust the Size of a Heading Element Versus a Paragraph Element
+ - Add a box-shadow to a Card-like Element
+ - Decrease the Opacity of an Element
+ - Use the text-transform Property to Make Text Uppercase
+ - Set the font-size for Multiple Heading Elements
+ - Set the font-weight for Multiple Heading Elements
+ - Set the font-size of Paragraph Text
+ - Set the line-height of Paragraphs
+ - Adjust the Hover State of an Anchor Tag
+ - Change an Element's Relative Position
+ - Move a Relatively Positioned Element with CSS Offsets
+ - Lock an Element to its Parent with Absolute Positioning
+ - Lock an Element to the Browser Window with Fixed Positioning
+ - Push Elements Left or Right with the float Property
+ - Change the Position of Overlapping Elements with the z-index Property
+ - Center an Element Horizontally Using the margin Property
+ - Learn about Complementary Colors
+ - Learn about Tertiary Colors
+ - Adjust the Color of Various Elements to Complementary Colors
+ - Adjust the Hue of a Color
+ - Adjust the Tone of a Color
+ - Create a Gradual CSS Linear Gradient
+ - Use a CSS Linear Gradient to Create a Striped Element
+ - Create Texture by Adding a Subtle Pattern as a Background Image
+ - Use the CSS Transform scale Property to Change the Size of an Element
+ - Use the CSS Transform scale Property to Scale an Element on Hover
+ - Use the CSS Transform Property skewX to Skew an Element Along the X-Axis
+ - Use the CSS Transform Property skewY to Skew an Element Along the Y-Axis
+ - Create a Graphic Using CSS
+ - Create a More Complex Shape Using CSS and HTML
+ - Learn How the CSS @keyframes and animation Properties Work
+ - Use CSS Animation to Change the Hover State of a Button
+ - Modify Fill Mode of an Animation
+ - Create Movement Using CSS Animation
+ - Create Visual Direction by Fading an Element from Left to Right
+ - Animate Elements Continually Using an Infinite Animation Count
+ - Make a CSS Heartbeat using an Infinite Animation Count
+ - Animate Elements at Variable Rates
+ - Animate Multiple Elements at Variable Rates
+ - Change Animation Timing with Keywords
+ - Learn How Bezier Curves Work
+ - Use a Bezier Curve to Move a Graphic
+ - Make Motion More Natural Using a Bezier Curve
+
+
+
+## Screenshot
+
+Using HTML and HTML5
+
+[![Screenshot-2021-12-08-213623.png](https://i.postimg.cc/02W9zhSD/Screenshot-2021-12-08-213623.png)](https://postimg.cc/crnpj9XL)
+
+
+List of Basic CSS questions of freeCodeCamp
+
+ - Change the Color of Text
+ - Use CSS Selectors to Style Elements
+ - Use a CSS Class to Style an Element
+ - Style Multiple Elements with a CSS Class
+ - Change the Font Size of an Element
+ - Set the Font Family of an Element
+ - Import a Google Font
+ - Specify How Fonts Should Degrade
+ - Size Your Images
+ - Add Borders Around Your Elements
+ - Add Rounded Corners with border-radius
+ - Make Circular Images with a border-radius
+ - Give a Background Color to a div Element
+ - Set the id of an Element
+ - Use an id Attribute to Style an Element
+ - Adjust the Padding of an Element
+ - Adjust the Margin of an Element
+ - Add a Negative Margin to an Element
+ - Add Different Padding to Each Side of an Element
+ - Add Different Margins to Each Side of an Element
+ - Use Clockwise Notation to Specify the Padding of an Element
+ - Use Clockwise Notation to Specify the Margin of an Element
+ - Use Attribute Selectors to Style Elements
+ - Understand Absolute versus Relative Units
+ - Style the HTML Body Element
+ - Inherit Styles from the Body Element
+ - Prioritize One Style Over Another
+ - Override Styles in Subsequent CSS
+ - Override Class Declarations by Styling ID Attributes
+ - Override Class Declarations with Inline Styles
+ - Override Class Declarations with Inline Styles
+ - Override All Other Styles by using Important
+ - Use Hex Code for Specific Colors
+ - Use Hex Code to Mix Colors
+ - Use Abbreviated Hex Code
+ - Use RGB values to Color Elements
+ - Use RGB to Mix Colors
+ - Use CSS Variables to change several elements at once
+ - Create a custom CSS Variable
+ - Use a custom CSS Variable
+ - Attach a Fallback value to a CSS Variable
+ - Improve Compatibility with Browser Fallbacks
+ - Inherit CSS Variables
+ - Change a variable for a specific area
+ - Use a media query to change a variable
+
+
+## Screenshot
+
+Using basic CSS
+
+[![Screenshot-2021-12-08-213542.png](https://i.postimg.cc/9fNxTtpx/Screenshot-2021-12-08-213542.png)](https://postimg.cc/R3KQxt2f)
