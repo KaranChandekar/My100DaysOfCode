@@ -60,3 +60,8 @@ For more information click here - [Day 11](Day11/Day11.md)
 Revising HTML and CSS!
 
 For more information click here - [Day 12](Day12/Day12.md)
+
+## Day 13
+Revising Applied Visual Design!
+
+For more information click here - [Day 13](Day13/Day13.md)

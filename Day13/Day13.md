@@ -1,6 +1,6 @@
 # Day 13
 
-Revising Applied Visuel Design!
+Revising Applied Visual Design!
 
 ## Today I revise Applied Visuel Desing:
 
