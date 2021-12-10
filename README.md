@@ -65,3 +65,8 @@ For more information click here - [Day 12](Day12/Day12.md)
 Revising Applied Visual Design!
 
 For more information click here - [Day 13](Day13/Day13.md)
+
+## Day 14
+Reviewing Responsive web design principles and more!
+
+For more information click here - [Day 14](Day14/Day14.md)
