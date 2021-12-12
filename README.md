@@ -90,3 +90,9 @@ For more information click here - [Day 14](Day14/Day14.md)
 Reviewing CSS Grid and making project!
 
 For more information click here - [Day 15](Day15/Day15.md)
+
+
+## Day 16
+Creating a Survey Form!
+
+For more information click here - [Day 16](Day16/Day16.md)
