@@ -1,5 +1,5 @@
 # My100DaysOfCode
-Here I share my all learnings
+Here, I share my all learning experiences in 100DaysOfCode challenge!
 
 
 ## Day 1
