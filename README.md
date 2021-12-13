@@ -96,3 +96,9 @@ For more information click here - [Day 15](Day15/Day15.md)
 Creating a Survey Form!
 
 For more information click here - [Day 16](Day16/Day16.md)
+
+
+## Day 17
+Creating a Product Landing Page!
+
+For more information click here - [Day 17](Day17/Day17.md)
