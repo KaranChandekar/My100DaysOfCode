@@ -1,0 +1,266 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+/* universal style  */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* styling html  */
+html {
+    scroll-behavior: smooth;
+}
+
+/* whole body  */
+body {
+    line-height: 30px;
+    font-family: 'Ubuntu', sans-serif;
+    cursor: default;
+}
+
+/* header section  */
+#header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 70px;
+    background-color: #45b29a;
+    position: fixed;
+}
+
+/* header lefr image  */
+#header-img {
+    width: 30%;
+}
+
+/* header right links  */
+#nav-bar ul {
+    display: flex;
+    list-style: none;
+}
+
+#nav-bar ul li {
+    padding: 0 30px;
+}
+
+#nav-bar ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    transition: 1s;
+}
+
+#nav-bar ul li a:hover {
+    color: #40514e;
+    font-size: 20px;
+}
+
+/* top container  */
+.top-container {
+    padding: 10% 0;
+    background-color: #E4f9f5;
+}
+
+/* form section  */
+#form-section {
+    margin: 12% 10% 1% 10%;
+    padding-bottom: 50px;
+}
+
+#form-heading {
+    text-align: center;
+    font-size: 40px;
+    color: #454545;
+}
+
+#form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#email {
+    margin: 50px 0 30px 0;
+    padding: 5px 10px;
+    width: 450px;
+    height: 50px;
+    font-size: 20px;
+}
+
+.btn {
+    background-color: #45b29a;
+    color: #454545;
+    font-size: 20px;
+    padding: 0.55em 1.52em;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #44a384;
+    color: #40514e;
+}
+
+/* horizontal line after each page  */
+hr {
+    border: dotted rgb(202, 202, 202) 6px;
+    border-bottom: none;
+    width: 4%;
+    margin:  auto;
+}
+
+/* feature section  */
+#features {
+    margin: 0 20%;
+    padding-top: 10px;
+}
+
+.grid {
+    margin: 12%;
+    padding-top: 3%;
+}
+
+/* feature icons  */
+.fa-fire {
+    float: left;
+    margin-right: 50px;
+    margin-top: 10px;
+    color: #f19114;
+}
+
+.fa-truck {
+    float: right;
+    margin-left: 50px;
+    margin-top: 20px;
+    color: #f19114;
+}
+
+.fa-battery-full {
+    float: left;
+    margin-right: 50px;
+    margin-top: 20px;
+    color: #f19114;
+}
+
+/* feature para  */
+.desc {
+    text-align: left;
+}
+
+.feature-heading {
+    padding-bottom: 10px;
+    color: #45b29a;
+}
+
+/* video section  */
+#how-it-works {
+    padding: 12%;
+}
+
+#works-content {
+    display: flex;
+    padding: 3%;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 40px;
+    color: #454545;
+}
+
+/* hand emoji  */
+.fa-hand-point-right {
+    margin: 20% 0 0 20%;
+}
+
+#video {
+    margin-left: 10%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 16px #888888;
+}
+
+/* pricing section  */
+#pricing {
+    margin: 0 6%;
+    padding: 11% 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+/* each product under pricing  */
+.product {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin: 10px 30px;
+    width: calc(100% / 3);
+    border: 1px solid #424242; 
+    border-radius: 3px;
+}
+
+.level {
+    background-color: #45b29a;
+    color: #fff;
+    padding: 15px 0;
+    width: 100%;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+h2 {
+    margin-top: 15px;
+}
+
+li {
+    list-style: none;
+}
+
+button {
+    border: 0;
+    margin: 15px 0 0 0;
+    width: 100%;
+}
+
+/* footer  */
+footer {
+    background-color: #E4f9f5;
+    padding: 20px;
+}
+
+.footer-content {
+    display: flex;
+    flex-direction: column;
+}
+
+footer ul {
+    display: flex;
+    justify-content: center;
+}
+
+footer ul li {
+    margin: 20px;
+    padding: 0 10px;
+    text-decoration: none;
+}
+
+footer ul li a {
+    text-decoration: none;
+    color: #45b29a;
+    transition: 1s;
+}
+
+footer ul li a:hover {
+    text-decoration: none;
+    color: #454545;
+}
+
+span {
+    text-align: center;
+    color: #3d9b86;
+}
+
+/* The End  */
