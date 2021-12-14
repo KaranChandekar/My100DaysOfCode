@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Product Landing Page</title>
+    <link rel="stylesheet" href="style.css" />
+    <script
+      src="https://kit.fontawesome.com/6ecd0621d4.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <!-- header starts here  -->
+    <header id="header">
+      <!-- navbar left-image  -->
+      <img
+        src="https://cdn.freecodecamp.org/testable-projects-fcc/images/product-landing-page-logo.png"
+        alt="Original Trombones"
+        id="header-img"
+      />
+
+      <!-- navbar right-content links  -->
+      <nav id="nav-bar">
+        <ul>
+          <li class="nav-link"><a href="#home"> Home</a></li>
+          <li class="nav-link"><a href="#features"> Features</a></li>
+          <li class="nav-link"><a href="#how-it-works"> How It Works</a></li>
+          <li class="nav-link"><a href="#pricing"> Pricing</a></li>
+        </ul>
+      </nav>
+    </header>
+    <!-- header ends here  -->
+
+    <div class="top-container" id="home">
+      <!-- form section starts here  -->
+      <div id="form-section">
+        <!-- form heading  -->
+        <h2 id="form-heading">Handcrafted, home-made masterpieces</h2>
+
+        <!-- main form starts here -->
+        <form id="form" action="https://www.freecodecamp.com/email-submit">
+          <input
+            name="email"
+            id="email"
+            type="email"
+            placeholder="Enter your email address"
+            required
+          />
+          <!-- get started button  -->
+          <input id="submit" type="submit" value="Get Started" class="btn" />
+        </form>
+        <!-- form ends here  -->
+      </div>
+      <!-- form section ends here  -->
+    </div>
+
+    <!-- feature section starts here  -->
+    <section id="features">
+      <!-- material section  -->
+      <div class="grid">
+        <!-- fire icon  -->
+        <div class="icon">
+          <i class="fas fa-fire fa-7x"></i>
+        </div>
+        <!-- materials info  -->
+        <div class="desc">
+          <h2 class="feature-heading">Premium Materials</h2>
+          <p>
+            Our trombones use the shiniest brass which is sourced locally. This
+            will increase the longevity of your purchase.
+          </p>
+        </div>
+      </div>
+
+      <!-- shipping section  -->
+      <div class="grid">
+        <!-- truck icon  -->
+        <div class="icon">
+          <i class="fas fa-truck fa-7x"></i>
+        </div>
+        <!-- shipping info  -->
+        <div class="desc">
+          <h2 class="feature-heading">Fast Shipping</h2>
+          <p>
+            We make sure you recieve your trombone as soon as we have finished
+            making it. We also provide free returns if you are not satisfied.
+          </p>
+        </div>
+      </div>
+
+      <!-- quality section  -->
+      <div class="grid">
+        <!-- batery icon  -->
+        <div class="icon">
+          <i class="fas fa-battery-full fa-7x"></i>
+        </div>
+        <!-- quality info  -->
+        <div class="desc">
+          <h2 class="feature-heading">Quality Assurance</h2>
+          <p>
+            For every purchase you make, we will ensure there are no damages or
+            faults and we will check and test the pitch of your instrument.
+          </p>
+        </div>
+      </div>
+    </section>
+    <!-- feature section ends here  -->
+
+    <hr>
+
+    <!-- video section starts here  -->
+    <section id="how-it-works">
+      <div id="works-content">
+        <div class="left-content">
+          <h1>How It Works ?</h1>
+          <i class="far fa-hand-point-right fa-7x"></i>
+        </div>
+
+        <!-- adding video  -->
+        <iframe
+          src="https://www.youtube-nocookie.com/embed/y8Yv4pnO7qc?rel=0&controls=0&showinfo=0"
+          frameborder="0"
+          id="video"
+          height="300"
+          width="400"
+          allowfullscreen
+        >
+        </iframe>
+      </div>
+    </section>
+    <!-- video section ends here  -->
+
+    <hr>
+
+    <!-- pricing section starts here  -->
+    <section id="pricing">
+      <!-- first card  -->
+      <div class="product" id="tenor">
+        <div class="level">Tenor Trombone</div>
+        <h2>$600</h2>
+        <ol>
+          <li>Lorem ipsum.</li>
+          <li>Lorem ipsum.</li>
+          <li>Lorem ipsum dolor</li>
+          <li>Lorem ipsum.</li>
+        </ol>
+        <!-- select button  -->
+        <button class="btn">SELECT</button>
+      </div>
+
+      <!-- second card  -->
+      <div class="product" id="bass">
+        <div class="level">Bass Trombone</div>
+        <h2>$900</h2>
+        <ol>
+          <li>Lorem ipsum.</li>
+          <li>Lorem ipsum.</li>
+          <li>Lorem ipsum dolor</li>
+          <li>Lorem ipsum.</li>
+        </ol>
+        <!-- select button  -->
+        <button class="btn">SELECT</button>
+      </div>
+
+      <!-- third card  -->
+      <div class="product" id="valve">
+        <div class="level">Valve Trombone</div>
+        <h2>$1200</h2>
+        <ol>
+          <li>Lorem ipsum.</li>
+          <li>Lorem ipsum.</li>
+          <li>Lorem ipsum dolor</li>
+          <li>Lorem ipsum.</li>
+        </ol>
+        <!-- select button  -->
+        <button class="btn">SELECT</button>
+      </div>
+    </section>
+    <!-- pricing section ends here  -->
+    <!-- </div> -->
+    <!-- main container ends here  -->
+
+    <!-- footer starts here  -->
+    <footer>
+      <div class="footer-content">
+        <!-- privacy links  -->
+        <ul>
+          <li>
+            <a href="#">Privacy</a>
+          </li>
+          <li>
+            <a href="#">Terms</a>
+          </li>
+          <li>
+            <a href="#">Contact</a>
+          </li>
+        </ul>
+        <!-- copyright section  -->
+        <span>Copyright 2021, Karan Chandekar, Trombones</span>
+      </div>
+    </footer>
+    <!-- footer ends here  -->
+  </body>
+</html>
