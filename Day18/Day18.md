@@ -8,7 +8,7 @@ Adding CSS to my Product Landing Page!
 Project no. 3 - Product Landing Page!
 
 
-# freeCodeCamp Product Landing Page
+# Product Landing Page
 
 So, as a part of my 100 days of code challenge. I have created simple Product Landing Page. This webpage is created with HTML and CSS and its fully responsive. This project is taken from freeCodeCamp responsive web design course challenge! I am happy that I have completed it.
 
