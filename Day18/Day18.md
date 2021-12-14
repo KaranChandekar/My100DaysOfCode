@@ -31,6 +31,12 @@ So, as a part of my 100 days of code challenge. I have created simple Product La
 - HTML
 - CSS
 
-## Demo
+## Screenshots
 
-<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:56.11%;position:relative;"><iframe width="360" height="202" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/5xv1x3"></iframe></div><p><a href="https://imgflip.com/gif/5xv1x3">via Imgflip</a></p></div>
+[![Screenshot-10.png](https://i.postimg.cc/rmL98L9w/Screenshot-10.png)](https://postimg.cc/v13nzkjJ)
+
+[![Screenshot-11.png](https://i.postimg.cc/59s8rzD0/Screenshot-11.png)](https://postimg.cc/Bt18LjS9)
+
+[![Screenshot-12.png](https://i.postimg.cc/pdMjjJ50/Screenshot-12.png)](https://postimg.cc/68zTJR0R)
+
+[![Screenshot-13.png](https://i.postimg.cc/kMYtsmtR/Screenshot-13.png)](https://postimg.cc/CdD1M97w)
