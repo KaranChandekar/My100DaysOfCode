@@ -102,3 +102,8 @@ For more information click here - [Day 16](Day16/Day16.md)
 Creating a Product Landing Page!
 
 For more information click here - [Day 17](Day17/Day17.md)
+
+## Day 18
+Adding CSS to my Product Landing Page!
+
+For more information click here - [Day 18](Day18/Day18.md)
