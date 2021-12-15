@@ -22,18 +22,15 @@ body {
 
 /* header section  */
 #header {
-  display: flex;
-  justify-content: space-between;
   padding: 2rem;
   background-color: #45b29a;
   position: fixed;
   width: 100vw;
 }
 
-/* header lefr image  */
-.header-left-img-container {
+.navbar {
   display: flex;
-  align-items: center;
+  justify-content: space-between;
   padding: 1rem;
 }
 
@@ -41,22 +38,23 @@ body {
   width: 33rem;
 }
 
-.header-links-container {
-  margin-left: 40rem;
-  padding: 1rem;
+nav {
+  margin-left: 30rem;
+  padding: 0 1rem;
   text-align: right;
 }
 
-.header-links-container ul {
+ ul {
   display: flex;
   padding: 0 1rem;
 }
 
-.header-links-container ul li {
-  margin: 1rem;
+ul li {
+  margin: 0 1rem;
+  padding: 0 1rem;
 }
 
-.header-links-container ul li a {
+ul li a {
   text-decoration: none;
   color: #fff;
   font-size: 2rem;
@@ -104,7 +102,9 @@ body {
 }
 
 #email {
-  font-size: 2rem;
+  width: 40rem;
+  font-size: 1.5rem;
+  padding: 1rem;
 }
 
 .form-button-container {
@@ -183,14 +183,10 @@ hr {
 
 /* video section  */
 #how-it-works {
+  display: flex;
+  justify-content: center;
   padding: 8rem;
   font-size: 1.7rem;
-}
-
-#works-content {
-  display: flex;
-  padding: 3rem;
-  justify-content: center;
 }
 
 h1 {
@@ -249,10 +245,14 @@ li {
 }
 
 button {
+  background-color: #45b29a;
   border: 0;
   margin: 1.5rem 0 0 0;
+  padding: 1rem 0;
   width: 100%;
+  font-size: 1.5rem;
 }
+
 
 /* footer  */
 footer {
@@ -292,9 +292,6 @@ span {
   text-align: center;
   color: #454545;
 }
-
-/* Making Website Responsive  */
-/* header responsive code  */
 
 @media (max-width: 1180px) {
   .top-container {
@@ -360,69 +357,3 @@ span {
         font-size: 2rem;
     }
 }
-
-/* 
-@media(max-width: 540px){
-    #header {
-        display: block;
-      }
-     
-      #header-img {
-        width: 40rem;
-      }
-      
-      #nav-bar ul {
-        display: bock;
-        list-style: none;
-      }
-      
-      #nav-bar ul li a {
-        font-size: 4rem;
-        transition: 1s;
-      }
-      
-      #nav-bar ul li a:hover {
-        color: #40514e;
-        font-size: 2rem;
-      }
-      
-} */
-
-
-@media(max-width: 900px) {
-
-  nav ul {
-    width: 100%;
-    background-color: #45b29a;
-    position: absolute;
-    top: 75px;
-    right: 0;
-    z-index: 2;
-  }
-  nav ul li {
-    display: block;
-    margin-top: 10px;
-    margin-bottom: 10px;
-  }
-  nav ul li a {
-    color: #0d1110;
-  }
-  .menu-icon {
-    display: block;
-  }
-}
-
-@media(max-width: 590px) {
-  #email {
-    margin: 5rem 0 3rem 0;
-    padding: 0.5rem 1rem;
-    width: 35rem;
-    height: 5rem;
-    font-size: 2rem;
-  }
-}
-
-
-
-
-/* The End  */
