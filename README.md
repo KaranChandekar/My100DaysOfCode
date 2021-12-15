@@ -103,7 +103,14 @@ Creating a Product Landing Page!
 
 For more information click here - [Day 17](Day17/Day17.md)
 
+
 ## Day 18
 Adding CSS to my Product Landing Page!
 
 For more information click here - [Day 18](Day18/Day18.md)
+
+
+## Day 19
+Refactoring my Product Landing Page Code!
+
+For more information click here - [Day 19](Day19/Day19.md)
