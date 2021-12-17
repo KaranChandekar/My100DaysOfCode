@@ -30,6 +30,7 @@ So, as a part of my 100 days of code challenge. I have created simple Product La
 
 - HTML
 - CSS
+- JavaScript
 
 ## Screenshots
 

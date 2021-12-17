@@ -120,3 +120,9 @@ For more information click here - [Day 19](Day19/Day19.md)
 Completely make my product landing page with responsiveness!
 
 For more information click here - [Day 20](Day20/Day20.md)
+
+
+## Day 21
+Creating Technical Documentation Page!
+
+For more information click here - [Day 21](Day21/Day21.md)
