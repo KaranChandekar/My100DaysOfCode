@@ -1,0 +1,39 @@
+/* google fonts  */
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+body {
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+    display: flex;
+}
+
+#navbar {
+    background-color: #eee;
+    min-width: 290px;
+    top: 0;
+    left: 0;
+    width: 300px;
+    height: 100vh;
+    border-right: solid;
+    border-color: rgb(0, 22, 22, 0.4);
+}
+
+header {
+    color: #000;
+    margin: 10px;
+    text-align: center;
+    font-size: 1.8em;
+}
+
+.nav-link {
+    display: block;
+    padding: 10px 30px;
+    color: #4d4e53;
+    text-decoration: none;
+    cursor: pointer;
+    border: 1px solid rgb(190, 190, 190);
+}
+
+main {
+    flex: 1;
+}
