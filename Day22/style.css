@@ -5,6 +5,7 @@ body {
     margin: 0;
     font-family: 'Lato', sans-serif;
     display: flex;
+    line-height: 25px;
 }
 
 #navbar {
@@ -16,6 +17,8 @@ body {
     height: 100vh;
     border-right: solid;
     border-color: rgb(0, 22, 22, 0.4);
+    margin-right: 3px;
+    position: fixed;
 }
 
 header {
@@ -23,17 +26,29 @@ header {
     margin: 10px;
     text-align: center;
     font-size: 1.8em;
+    padding: 10px 0;
 }
 
 .nav-link {
     display: block;
     padding: 10px 30px;
-    color: #4d4e53;
     text-decoration: none;
     cursor: pointer;
     border: 1px solid rgb(190, 190, 190);
+    color: #4d4e53;
 }
 
-main {
-    flex: 1;
+#main-doc {
+    margin-left: 350px;
+    color: #4d4e53;
+}
+
+#main-doc header {
+    text-align: left;
+    margin-top: 30px;
+    margin-left: 0;
+}
+
+p {
+    margin-top: 20px;
 }
