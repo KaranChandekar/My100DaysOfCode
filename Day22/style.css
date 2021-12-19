@@ -1,10 +1,15 @@
 /* google fonts  */
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
+* {
+    box-sizing: border-box;
+}
+
 body {
     margin: 0;
     font-family: 'Lato', sans-serif;
     display: flex;
+    flex-wrap: wrap;
     line-height: 25px;
 }
 
@@ -16,7 +21,7 @@ body {
     width: 300px;
     height: 100vh;
     border-right: solid;
-    border-color: rgb(0, 22, 22, 0.4);
+    border-color: #777;
     margin-right: 3px;
     position: fixed;
 }
@@ -70,4 +75,22 @@ code {
 
 li {
     line-height: 2.5;
+}
+
+@media (max-width: 700px) {
+    body {
+        flex-direction: column;
+    }
+    #navbar {
+        border-right: none;
+        border-bottom: 2px solid #777;
+        height: 200px;
+        overflow-y: scroll;
+        width: 100%;
+    }
+    main {
+        display: block;
+        height: auto;
+        width: 100%;
+    }
 }
