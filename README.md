@@ -126,3 +126,9 @@ For more information click here - [Day 20](Day20/Day20.md)
 Creating Technical Documentation Page!
 
 For more information click here - [Day 21](Day21/Day21.md)
+
+
+## Day 21
+Created Technical Documentation Page!
+
+For more information click here - [Day 22](Day22/Day22.md)
