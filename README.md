@@ -132,3 +132,9 @@ For more information click here - [Day 21](Day21/Day21.md)
 Created Technical Documentation Page!
 
 For more information click here - [Day 22](Day22/Day22.md)
+
+
+## Day 23
+Making Tech Doc Page Responsive!
+
+For more information click here - [Day 23](Day23/Day23.md)
