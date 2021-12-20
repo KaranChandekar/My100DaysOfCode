@@ -138,3 +138,9 @@ For more information click here - [Day 22](Day22/Day22.md)
 Making Tech Doc Page Responsive!
 
 For more information click here - [Day 23](Day23/Day23.md)
+
+
+## Day 24
+Building Personal Portfolio!
+
+For more information click here - [Day 24](Day24/Day24.md)
