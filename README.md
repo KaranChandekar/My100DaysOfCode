@@ -144,3 +144,9 @@ For more information click here - [Day 23](Day23/Day23.md)
 Building Personal Portfolio!
 
 For more information click here - [Day 24](Day24/Day24.md)
+
+
+## Day 25
+Making Portfolio Responsive!
+
+For more information click here - [Day 25](Day25/Day25.md)
