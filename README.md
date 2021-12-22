@@ -150,3 +150,9 @@ For more information click here - [Day 24](Day24/Day24.md)
 Making Portfolio Responsive!
 
 For more information click here - [Day 25](Day25/Day25.md)
+
+
+## Day 26
+Revising JavaScript!
+
+For more information click here - [Day 26](Day26/Day26.md)
