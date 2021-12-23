@@ -156,3 +156,9 @@ For more information click here - [Day 25](Day25/Day25.md)
 Revising JavaScript!
 
 For more information click here - [Day 26](Day26/Day26.md)
+
+
+## Day 27
+Spending more time on JavaScript!
+
+For more information click here - [Day 27](Day27/Day27.md)
