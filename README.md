@@ -162,3 +162,9 @@ For more information click here - [Day 26](Day26/Day26.md)
 Spending more time on JavaScript!
 
 For more information click here - [Day 27](Day27/Day27.md)
+
+
+## Day 28
+Solving Javascript problems on freeCodeCamp!
+
+For more information click here - [Day 28](Day28/Day28.md)
