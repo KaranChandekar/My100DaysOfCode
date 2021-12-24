@@ -16,3 +16,8 @@ Solving Javascript problems on freeCodeCamp!
  - Declare a Read-Only Variable with the const Keyword
  - Add Two Numbers with JavaScript
  - Subtract One Number from Another with JavaScript
+
+
+## Screenshot
+
+[![Screenshot-35.png](https://i.postimg.cc/ht2NdgpP/Screenshot-35.png)](https://postimg.cc/nXQ3yyy6)
