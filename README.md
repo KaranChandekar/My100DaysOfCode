@@ -168,3 +168,9 @@ For more information click here - [Day 27](Day27/Day27.md)
 Solving Javascript problems on freeCodeCamp!
 
 For more information click here - [Day 28](Day28/Day28.md)
+
+
+## Day 29
+Working on browser console!
+
+For more information click here - [Day 29](Day29/Day29.md)
