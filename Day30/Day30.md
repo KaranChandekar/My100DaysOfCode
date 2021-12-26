@@ -16,4 +16,4 @@ Revising some intermediate Javascript properties!
 
 ## Screenshot
 
-[![IMG20211226221801.jpg](https://i.postimg.cc/GhSgTsBH/IMG20211226221801.jpg)](https://postimg.cc/RNKLjhLB)
+[![Screenshot-36.png](https://i.postimg.cc/15555b6y/Screenshot-36.png)](https://postimg.cc/G9V1X7qf)
