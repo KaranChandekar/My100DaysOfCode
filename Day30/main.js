@@ -11,7 +11,6 @@
 // }
 // bmiCalculator(45, 5.2)
 
-
 // Leap year Calculator
 // function isLeap(year) {
 //     if (year % 4 === 0) {
@@ -31,56 +30,71 @@
 
 //   isLeap(2019)
 
+// Array
+// let guestList = ["Karan", "Vikrant", "Amit", "Amol", "Manish"]
+// var guestName = prompt("Please enter your name!")
+// if (guestList.includes(guestName)) {
+//   alert("Welcome!")
+// } else {
+//   alert("Sorry! may be next time")
+// }
 
-  // Array 
-  // let guestList = ["Karan", "Vikrant", "Amit", "Amol", "Manish"]
-  // var guestName = prompt("Please enter your name!")
-  // if (guestList.includes(guestName)) {
-  //   alert("Welcome!")
-  // } else {
-  //   alert("Sorry! may be next time")
-  // }
+// FizzBuzz using JavaScript
+// var output = []
+// var count = 1
 
+// function fizzBuzz() {
+//   if (count % 3 === 0 && count % 5 === 0) {
+//     output.push("FizzBuzz")
+//   } else if (count % 3 === 0) {
+//     output.push("Fizz")
+//   } else if (count % 5 === 0) {
+//     output.push("Buzz")
+//   } else {
+//     output.push(count)
+//   }
+//   count++
+//   console.log(output)
+// }
 
-  // FizzBuzz using JavaScript
-  // var output = []
-  // var count = 1
+// Who's buying luch? Code challenge
+// function whosPaying(names) {
+//   var numberOfPeople = names.length
+//   var randomPersonPosition = Math.floor(Math.random() * numberOfPeople)
+//   var randomPerson = names[randomPersonPosition]
 
-  // function fizzBuzz() {
-  //   if (count % 3 === 0 && count % 5 === 0) {
-  //     output.push("FizzBuzz")
-  //   } else if (count % 3 === 0) {
-  //     output.push("Fizz")
-  //   } else if (count % 5 === 0) {
-  //     output.push("Buzz")
-  //   } else {
-  //     output.push(count)
-  //   }
-  //   count++
-  //   console.log(output)
-  // }
+//   return randomPerson + " is going to buy lunch today!"
+//   }
 
+// While Loop
+// function beer() {
+//   var bottlesOfBeer = 100
+//   while (bottlesOfBeer >= 1) {
+//     console.log(bottlesOfBeer + " bottles of beer on the wall, " + bottlesOfBeer + " bottles of beer.")
+//     bottlesOfBeer--
+//     console.log("Take one down and pass it around, " + bottlesOfBeer + " bottles of beer on the wall.")
+//     if (bottlesOfBeer === 0) {
+//       console.log("NO more bottles of beer on the wall, no more bottles of beer.")
+//       console.log("Go to the store and buy some more, 99 bottles of beer on the wall.")
+//     }
+//   }
+// }
 
-  // Who's buying luch? Code challenge 
-  // function whosPaying(names) {
-  //   var numberOfPeople = names.length
-  //   var randomPersonPosition = Math.floor(Math.random() * numberOfPeople)
-  //   var randomPerson = names[randomPersonPosition]
+// For loop
+// FizzBuzz using For loop
+var output = [];
 
-  //   return randomPerson + " is going to buy lunch today!"
-  //   }
-
-
-  // While Loop 
-  function beer() {
-    var bottlesOfBeer = 100
-    while (bottlesOfBeer >= 1) {
-      console.log(bottlesOfBeer + " bottles of beer on the wall, " + bottlesOfBeer + " bottles of beer.")
-      bottlesOfBeer--
-      console.log("Take one down and pass it around, " + bottlesOfBeer + " bottles of beer on the wall.")
-      if (bottlesOfBeer === 0) {
-        console.log("NO more bottles of beer on the wall, no more bottles of beer.")
-        console.log("Go to the store and buy some more, 99 bottles of beer on the wall.")
-      }
+function fizzBuzz() {
+  for (let count = 1; count < 101; count++) {
+    if (count % 3 === 0 && count % 5 === 0) {
+      output.push("FizzBuzz");
+    } else if (count % 3 === 0) {
+      output.push("Fizz");
+    } else if (count % 5 === 0) {
+      output.push("Buzz");
+    } else {
+      output.push(count);
     }
+    console.log(output);
   }
+}
