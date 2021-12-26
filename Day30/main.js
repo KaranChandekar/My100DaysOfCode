@@ -62,10 +62,25 @@
 
 
   // Who's buying luch? Code challenge 
-  function whosPaying(names) {
-    var numberOfPeople = names.length
-    var randomPersonPosition = Math.floor(Math.random() * numberOfPeople)
-    var randomPerson = names[randomPersonPosition]
+  // function whosPaying(names) {
+  //   var numberOfPeople = names.length
+  //   var randomPersonPosition = Math.floor(Math.random() * numberOfPeople)
+  //   var randomPerson = names[randomPersonPosition]
 
-    return randomPerson + " is going to buy lunch today!"
+  //   return randomPerson + " is going to buy lunch today!"
+  //   }
+
+
+  // While Loop 
+  function beer() {
+    var bottlesOfBeer = 100
+    while (bottlesOfBeer >= 1) {
+      console.log(bottlesOfBeer + " bottles of beer on the wall, " + bottlesOfBeer + " bottles of beer.")
+      bottlesOfBeer--
+      console.log("Take one down and pass it around, " + bottlesOfBeer + " bottles of beer on the wall.")
+      if (bottlesOfBeer === 0) {
+        console.log("NO more bottles of beer on the wall, no more bottles of beer.")
+        console.log("Go to the store and buy some more, 99 bottles of beer on the wall.")
+      }
     }
+  }
