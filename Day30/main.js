@@ -12,7 +12,7 @@ function bmiCalculator(weight, height) {
 bmiCalculator(45, 5.2)
 
 
-// Leap year bmiCalculator
+// Leap year Calculator
 function isLeap(year) {
     if (year % 4 === 0) {
       if (year % 100 === 0) {
@@ -30,3 +30,13 @@ function isLeap(year) {
   }
 
   isLeap(2019)
+
+
+  // Array 
+  let guestList = ["Karan", "Vikrant", "Amit", "Amol", "Manish"]
+  var guestName = prompt("Please enter your name!")
+  if (guestList.includes(guestName)) {
+    alert("Welcome!")
+  } else {
+    alert("Sorry! may be next time")
+  }
