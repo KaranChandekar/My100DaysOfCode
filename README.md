@@ -174,3 +174,9 @@ For more information click here - [Day 28](Day28/Day28.md)
 Working on browser console!
 
 For more information click here - [Day 29](Day29/Day29.md)
+
+
+## Day 30
+Revising intermediate Javascript!
+
+For more information click here - [Day 30](Day30/Day30.md)
