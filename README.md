@@ -180,3 +180,9 @@ For more information click here - [Day 29](Day29/Day29.md)
 Revising intermediate Javascript!
 
 For more information click here - [Day 30](Day30/Day30.md)
+
+
+## Day 31
+Working with Javascript DOM!
+
+For more information click here - [Day 31](Day31/Day31.md)
