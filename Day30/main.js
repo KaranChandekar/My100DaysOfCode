@@ -12,22 +12,22 @@
 // bmiCalculator(45, 5.2)
 
 // Leap year Calculator
-function isLeap(year) {
-    if (year % 4 === 0) {
-      if (year % 100 === 0) {
-        if (year % 400) {
-          return "This is a leap year"
-        } else {
-          return "This is not a leap year"
-        }
-      } else {
-        return "This is a leap year"
-      }
-    } else {
-      return "This is not a leap year"
-    }
-  }
-  isLeap(2019)
+// function isLeap(year) {
+//     if (year % 4 === 0) {
+//       if (year % 100 === 0) {
+//         if (year % 400) {
+//           return "This is a leap year"
+//         } else {
+//           return "This is not a leap year"
+//         }
+//       } else {
+//         return "This is a leap year"
+//       }
+//     } else {
+//       return "This is not a leap year"
+//     }
+//   }
+//   isLeap(2019)
 
 
 // Array
