@@ -1,1 +1,0 @@
-document.querySelector("h1").innerHTML = "Welcome to Javascript!"
