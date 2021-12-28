@@ -186,3 +186,9 @@ For more information click here - [Day 30](Day30/Day30.md)
 Working with Javascript DOM!
 
 For more information click here - [Day 31](Day31/Day31.md)
+
+
+## Day 32
+Making Dicee Game!
+
+For more information click here - [Day 32](Day32/Day32.md)
