@@ -192,3 +192,9 @@ For more information click here - [Day 31](Day31/Day31.md)
 Making Dicee Game!
 
 For more information click here - [Day 32](Day32/Day32.md)
+
+
+## Day 33
+Working on Drum Kit webapp!
+
+For more information click here - [Day 33](Day33/Day33.md)
