@@ -210,3 +210,9 @@ For more information click here - [Day 34](Day34/Day34.md)
 Completed Drum Kit webapp!
 
 For more information click here - [Day 35](Day35/Day35.md)
+
+
+## Day 36
+Solved problems on freecodecamp!
+
+For more information click here - [Day 36](Day36/Day36.md)
