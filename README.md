@@ -198,3 +198,9 @@ For more information click here - [Day 32](Day32/Day32.md)
 Working on Drum Kit webapp!
 
 For more information click here - [Day 33](Day33/Day33.md)
+
+
+## Day 34
+Half done Drum Kit webapp!
+
+For more information click here - [Day 34](Day34/Day34.md)
