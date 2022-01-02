@@ -216,3 +216,9 @@ For more information click here - [Day 35](Day35/Day35.md)
 Solved problems on freecodecamp!
 
 For more information click here - [Day 36](Day36/Day36.md)
+
+
+## Day 37
+Completed Basic Javascript on freecodecamp!
+
+For more information click here - [Day 37](Day37/Day37.md)
