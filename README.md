@@ -228,3 +228,9 @@ For more information click here - [Day 37](Day37/Day37.md)
 Solving ES6 problems on freecodecamp!
 
 For more information click here - [Day 38](Day38/Day38.md)
+
+
+## Day 39
+Learning jQuery!
+
+For more information click here - [Day 39](Day39/Day39.md)
