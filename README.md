@@ -222,3 +222,9 @@ For more information click here - [Day 36](Day36/Day36.md)
 Completed Basic Javascript on freecodecamp!
 
 For more information click here - [Day 37](Day37/Day37.md)
+
+
+## Day 38
+Solving ES6 problems on freecodecamp!
+
+For more information click here - [Day 38](Day38/Day38.md)
