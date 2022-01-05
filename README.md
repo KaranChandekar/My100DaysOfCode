@@ -234,3 +234,9 @@ For more information click here - [Day 38](Day38/Day38.md)
 Learning jQuery!
 
 For more information click here - [Day 39](Day39/Day39.md)
+
+
+## Day 40
+Completed jQuery!
+
+For more information click here - [Day 40](Day40/Day40.md)
