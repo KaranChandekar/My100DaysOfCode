@@ -240,3 +240,9 @@ For more information click here - [Day 39](Day39/Day39.md)
 Completed jQuery!
 
 For more information click here - [Day 40](Day40/Day40.md)
+
+
+## Day 41
+Working on The Simon Game!
+
+For more information click here - [Day 41](Day41/Day41.md)
