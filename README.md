@@ -246,3 +246,9 @@ For more information click here - [Day 40](Day40/Day40.md)
 Working on The Simon Game!
 
 For more information click here - [Day 41](Day41/Day41.md)
+
+
+## Day 42
+Completed The Simon Game!
+
+For more information click here - [Day 42](Day42/Day42.md)
