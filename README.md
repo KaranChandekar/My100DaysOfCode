@@ -252,3 +252,9 @@ For more information click here - [Day 41](Day41/Day41.md)
 Completed The Simon Game!
 
 For more information click here - [Day 42](Day42/Day42.md)
+
+
+## Day 43
+Learning Unix Command Line!
+
+For more information click here - [Day 43](Day43/Day43.md)
