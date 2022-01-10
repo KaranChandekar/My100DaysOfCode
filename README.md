@@ -266,7 +266,7 @@ Created Color Flipper!
 For more information click here - [Day 44](Day44/Day44.md)
 
 
-## Day 44
+## Day 45
 Created Counter App!
 
 For more information click here - [Day 45](Day45/Day45.md)
