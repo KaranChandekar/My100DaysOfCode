@@ -281,4 +281,4 @@ For more information click here - [Day 46](Day46/Day46.md)
 ## Day 47
 Created responsive navbars!
 
-For more information click here - [Day 47](Day46/Day47.md)
+For more information click here - [Day 47](Day47/Day47.md)
