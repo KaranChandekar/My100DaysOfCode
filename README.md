@@ -276,3 +276,9 @@ For more information click here - [Day 45](Day45/Day45.md)
 Created Review Page!
 
 For more information click here - [Day 46](Day46/Day46.md)
+
+
+## Day 47
+Created responsive navbars!
+
+For more information click here - [Day 47](Day46/Day47.md)
