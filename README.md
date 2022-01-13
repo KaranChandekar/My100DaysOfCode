@@ -282,3 +282,9 @@ For more information click here - [Day 46](Day46/Day46.md)
 Created responsive navbars!
 
 For more information click here - [Day 47](Day47/Day47.md)
+
+
+## Day 48
+Creates a view modal project!
+
+For more information click here - [Day 48](Day48/Day48.md)
