@@ -294,3 +294,9 @@ For more information click here - [Day 48](Day48/Day48.md)
 Creates a Q and A project!
 
 For more information click here - [Day 49(Day49/Day49.md)
+
+
+## Day 50
+Creates a video project!
+
+For more information click here - [Day 50(Day50/Day50.md)
