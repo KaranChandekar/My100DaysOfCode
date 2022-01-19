@@ -306,3 +306,9 @@ For more information click here - [Day 50(Day50/Day50.md)
 Created a tabs project!
 
 For more information click here - [Day 51(Day51/Day51.md)
+
+
+## Day 52
+Created a lorem ipusm generator!
+
+For more information click here - [Day 52(Day52/Day52.md)
