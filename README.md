@@ -293,22 +293,22 @@ For more information click here - [Day 48](Day48/Day48.md)
 ## Day 49
 Creates a Q and A project!
 
-For more information click here - [Day 49(Day49/Day49.md)
+For more information click here - [Day 49](Day49/Day49.md)
 
 
 ## Day 50
 Creates a video project!
 
-For more information click here - [Day 50(Day50/Day50.md)
+For more information click here - [Day 50](Day50/Day50.md)
 
 
 ## Day 51
 Created a tabs project!
 
-For more information click here - [Day 51(Day51/Day51.md)
+For more information click here - [Day 51](Day51/Day51.md)
 
 
 ## Day 52
 Created a lorem ipusm generator!
 
-For more information click here - [Day 52(Day52/Day52.md)
+For more information click here - [Day 52](Day52/Day52.md)
