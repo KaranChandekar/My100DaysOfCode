@@ -324,3 +324,9 @@ For more information click here - [Day 53](Day53/Day53.md)
 Completed menu project!
 
 For more information click here - [Day 54](Day54/Day54.md)
+
+
+## Day 55
+Created a smooth scroller!
+
+For more information click here - [Day 55](Day55/Day55.md)
