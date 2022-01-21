@@ -14,6 +14,6 @@ Working on a Menu project!
  - [Linkedin](https://www.linkedin.com/in/karan-chandekar-a87263219/)
 
 
-## Demo
+## Screenshot
 
-https://user-images.githubusercontent.com/93200960/150568863-0c29c3e0-93e9-4cf6-b716-97074cdfa5cf.mp4
+[![Screenshot-69.png](https://i.postimg.cc/GmYf2TXV/Screenshot-69.png)](https://postimg.cc/YvrRD0Kz)
