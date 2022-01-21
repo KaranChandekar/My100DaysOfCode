@@ -318,3 +318,9 @@ For more information click here - [Day 52](Day52/Day52.md)
 Working on a menu project!
 
 For more information click here - [Day 53](Day53/Day53.md)
+
+
+## Day 54
+Completed menu project!
+
+For more information click here - [Day 54](Day54/Day54.md)
