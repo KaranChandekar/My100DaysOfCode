@@ -17,4 +17,4 @@ Created a smooth scroller!
 
 ## Demo
 
-Uploading Scroll - Google Chrome 2022-01-20 21-36-11_Trim.mp4…
+https://user-images.githubusercontent.com/93200960/150569579-260812a0-ad5e-425b-b09a-7e6386a90770.mp4
