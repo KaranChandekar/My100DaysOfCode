@@ -312,3 +312,9 @@ For more information click here - [Day 51](Day51/Day51.md)
 Created a lorem ipusm generator!
 
 For more information click here - [Day 52](Day52/Day52.md)
+
+
+## Day 53
+Working on a menu project!
+
+For more information click here - [Day 53](Day53/Day53.md)
