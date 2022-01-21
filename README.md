@@ -330,3 +330,9 @@ For more information click here - [Day 54](Day54/Day54.md)
 Created a smooth scroller!
 
 For more information click here - [Day 55](Day55/Day55.md)
+
+
+## Day 56
+Created a countdown timer!
+
+For more information click here - [Day 56](Day56/Day56.md)
