@@ -342,3 +342,9 @@ For more information click here - [Day 56](Day56/Day56.md)
 Created a grocery bud webapp!
 
 For more information click here - [Day 57](Day57/Day57.md)
+
+
+## Day 58
+Created a Webpage Slider!
+
+For more information click here - [Day 58](Day58/Day58.md)
