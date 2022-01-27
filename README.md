@@ -366,3 +366,9 @@ For more information click here - [Day 60](Day60/Day60.md)
 Exploring more in Express.js!
 
 For more information click here - [Day 61](Day61/Day61.md)
+
+
+## Day 62
+Learning about API!
+
+For more information click here - [Day 62](Day62/Day62.md)
