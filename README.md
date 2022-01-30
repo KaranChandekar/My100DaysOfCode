@@ -384,3 +384,9 @@ For more information click here - [Day 63](Day63/Day63.md)
 Created a weather app!
 
 For more information click here - [Day 64](Day64/Day64.md)
+
+
+## Day 65
+Working on Newsletter-Signup project!
+
+For more information click here - [Day 65](Day65/Day65.md)
