@@ -378,3 +378,9 @@ For more information click here - [Day 62](Day62/Day62.md)
 Learning more about APIs!
 
 For more information click here - [Day 63](Day63/Day63.md)
+
+
+## Day 64
+Created a weather app!
+
+For more information click here - [Day 64](Day64/Day64.md)
