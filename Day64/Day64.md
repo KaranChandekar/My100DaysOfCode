@@ -5,7 +5,7 @@ Created a weather app!
 
 ## what I did today,
 
- - today I created a simple weather app using backend
+ - today I created a simple weather app using express.js, node.js and APIs
 
 ## about me
 
