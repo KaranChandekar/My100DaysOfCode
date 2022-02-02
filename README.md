@@ -390,3 +390,9 @@ For more information click here - [Day 64](Day64/Day64.md)
 Working on Newsletter-Signup project!
 
 For more information click here - [Day 65](Day65/Day65.md)
+
+
+## Day 66
+Half done Newsletter-Signup project!
+
+For more information click here - [Day 66](Day66/Day66.md)
