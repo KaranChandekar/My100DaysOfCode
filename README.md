@@ -396,3 +396,9 @@ For more information click here - [Day 65](Day65/Day65.md)
 Half done Newsletter-Signup project!
 
 For more information click here - [Day 66](Day66/Day66.md)
+
+
+## Day 67
+Completed Newsletter-Signup project!
+
+For more information click here - [Day 67](Day67/Day67.md)
