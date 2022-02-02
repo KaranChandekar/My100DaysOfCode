@@ -1,11 +1,11 @@
-# Day 65
+# Day 67
 
-Half done my Newsletter-Signup project!
+Completed Newsletter-Signup project!
 
 
 ## what I did today,
 
- - today I half done my Newsletter-Signup project
+ - today completely done with my Newsletter-Signup project
  - creating this with node.js, express.js, request and APIs
 
 ## about me
