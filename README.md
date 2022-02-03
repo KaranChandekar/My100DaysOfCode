@@ -408,3 +408,9 @@ For more information click here - [Day 67](Day67/Day67.md)
 Learning Git, GitHub and version control!
 
 For more information click here - [Day 68](Day68/Day68.md)
+
+
+## Day 69
+Deep dive more in Git, GitHub and version controlling!
+
+For more information click here - [Day 69](Day69/Day69.md)
