@@ -426,3 +426,9 @@ For more information click here - [Day 70](Day70/Day70.md)
 Learning more in EJS!
 
 For more information click here - [Day 71](Day71/Day71.md)
+
+
+## Day 72
+Completed my ToDo List project!
+
+For more information click here - [Day 72](Day72/Day72.md)
