@@ -420,3 +420,9 @@ For more information click here - [Day 69](Day69/Day69.md)
 Start to learn EJS!
 
 For more information click here - [Day 70](Day70/Day70.md)
+
+
+## Day 71
+Learning more in EJS!
+
+For more information click here - [Day 71](Day71/Day71.md)
