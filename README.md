@@ -414,3 +414,9 @@ For more information click here - [Day 68](Day68/Day68.md)
 Deep dive more in Git, GitHub and version controlling!
 
 For more information click here - [Day 69](Day69/Day69.md)
+
+
+## Day 70
+Start to learn EJS!
+
+For more information click here - [Day 70](Day70/Day70.md)
