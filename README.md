@@ -432,3 +432,9 @@ For more information click here - [Day 71](Day71/Day71.md)
 Completed my ToDo List project!
 
 For more information click here - [Day 72](Day72/Day72.md)
+
+
+## Day 73
+Work on Expanding Cards project!
+
+For more information click here - [Day 73](Day73/Day73.md)
