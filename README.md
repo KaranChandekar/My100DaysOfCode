@@ -438,3 +438,9 @@ For more information click here - [Day 72](Day72/Day72.md)
 Work on Expanding Cards project!
 
 For more information click here - [Day 73](Day73/Day73.md)
+
+
+## Day 74
+Created a Progress Steps mini project!
+
+For more information click here - [Day 74](Day74/Day74.md)
