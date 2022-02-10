@@ -450,3 +450,9 @@ For more information click here - [Day 74](Day74/Day74.md)
 Created a Rotating Navigation!
 
 For more information click here - [Day 75](Day75/Day75.md)
+
+
+## Day 76
+Created a Hidden Searchbar!
+
+For more information click here - [Day 76](Day76/Day76.md)
