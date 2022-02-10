@@ -22,4 +22,4 @@ Created a Rotating Navigation!
 
 ## Demo
 
-https://user-images.githubusercontent.com/93200960/153462436-388e86b5-72e1-4077-bcd3-b1ef885a40a3.mp4
+https://user-images.githubusercontent.com/93200960/153463493-002a61e2-e05c-4bfc-9b17-58567128e10b.mp4
