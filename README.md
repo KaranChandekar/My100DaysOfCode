@@ -444,3 +444,9 @@ For more information click here - [Day 73](Day73/Day73.md)
 Created a Progress Steps mini project!
 
 For more information click here - [Day 74](Day74/Day74.md)
+
+
+## Day 75
+Created a Rotating Navigation!
+
+For more information click here - [Day 75](Day75/Day75.md)
