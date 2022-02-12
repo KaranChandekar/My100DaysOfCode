@@ -19,3 +19,7 @@ Created a simple Scroll Animation!
  - [Twitter](https://twitter.com/karan_chandekar)
  - [Linkedin](https://www.linkedin.com/in/karan-chandekar-a87263219/)
 
+
+## Demo
+
+https://user-images.githubusercontent.com/93200960/153719424-13e7e896-e264-459b-b2cc-e8d8877e2caa.mp4
