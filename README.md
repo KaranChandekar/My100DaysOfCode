@@ -462,3 +462,9 @@ For more information click here - [Day 76](Day76/Day76.md)
 Created a Blurry Loading Effect!
 
 For more information click here - [Day 77](Day77/Day77.md)
+
+
+## Day 78
+Created a Scroll Animation!
+
+For more information click here - [Day 78](Day78/Day78.md)
