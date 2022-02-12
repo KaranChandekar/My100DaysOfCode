@@ -456,3 +456,9 @@ For more information click here - [Day 75](Day75/Day75.md)
 Created a Hidden Searchbar!
 
 For more information click here - [Day 76](Day76/Day76.md)
+
+
+## Day 77
+Created a Blurry Loading Effect!
+
+For more information click here - [Day 77](Day77/Day77.md)
