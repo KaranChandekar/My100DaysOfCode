@@ -19,3 +19,7 @@ Created a Blurry Loading Effect!
  - [Twitter](https://twitter.com/karan_chandekar)
  - [Linkedin](https://www.linkedin.com/in/karan-chandekar-a87263219/)
 
+
+## Demo
+
+https://user-images.githubusercontent.com/93200960/153719392-00f957ed-c080-4ecf-84b3-031683c2941f.mp4
