@@ -470,7 +470,13 @@ Created a Scroll Animation!
 For more information click here - [Day 78](Day78/Day78.md)
 
 
-## Day 78
+## Day 79
 Created a Split Landing Page!
 
-For more information click here - [Day 78](Day79/Day79.md)
+For more information click here - [Day 79](Day79/Day79.md)
+
+
+## Day 80
+Created a Form Input Wave!
+
+For more information click here - [Day 80](Day80/Day80.md)

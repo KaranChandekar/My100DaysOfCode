@@ -1,17 +1,17 @@
-# Day 79
+# Day 80
 
-Created a Split Landing Page!
+Created a Form Input Wave!
 
 
 ## what I did today,
 
- - Today I created a Split Landing Page
+ - Today I created a Form Input Wave
  - Created this project with html, css and Javascript
 
 
 ## Visit
 
- - [Github-repo](https://github.com/KaranChandekar/50projects50days/tree/master/split-landing-page)
+ - [Github-repo](https://github.com/KaranChandekar/50projects50days/tree/master/form-input-wave)
 
  
 ## about me
