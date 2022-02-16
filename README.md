@@ -480,3 +480,9 @@ For more information click here - [Day 79](Day79/Day79.md)
 Created a Form Input Wave!
 
 For more information click here - [Day 80](Day80/Day80.md)
+
+
+## Day 81
+Created a Sound Board!
+
+For more information click here - [Day 81](Day81/Day81.md)
