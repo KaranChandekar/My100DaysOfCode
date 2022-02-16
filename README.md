@@ -486,3 +486,9 @@ For more information click here - [Day 80](Day80/Day80.md)
 Created a Sound Board!
 
 For more information click here - [Day 81](Day81/Day81.md)
+
+
+## Day 82
+Created a Dad Jokes!
+
+For more information click here - [Day 82](Day82/Day82.md)
