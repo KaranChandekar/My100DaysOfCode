@@ -468,3 +468,9 @@ For more information click here - [Day 77](Day77/Day77.md)
 Created a Scroll Animation!
 
 For more information click here - [Day 78](Day78/Day78.md)
+
+
+## Day 78
+Created a Split Landing Page!
+
+For more information click here - [Day 78](Day79/Day79.md)
