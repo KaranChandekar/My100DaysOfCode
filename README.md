@@ -492,3 +492,9 @@ For more information click here - [Day 81](Day81/Day81.md)
 Created a Dad Jokes!
 
 For more information click here - [Day 82](Day82/Day82.md)
+
+
+## Day 83
+Created an Event KeyCodes project!
+
+For more information click here - [Day 83](Day83/Day83.md)
