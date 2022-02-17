@@ -19,3 +19,7 @@ Created a Split Landing Page!
  - [Twitter](https://twitter.com/karan_chandekar)
  - [Linkedin](https://www.linkedin.com/in/karan-chandekar-a87263219/)
 
+
+## Demo
+
+https://user-images.githubusercontent.com/93200960/154539313-7a898a18-e213-48a1-883b-94bc22959e24.mp4
