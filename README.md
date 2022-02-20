@@ -510,3 +510,9 @@ For more information click here - [Day 84](Day84/Day84.md)
 Created a Random Choice Picker!
 
 For more information click here - [Day 85](Day85/Day85.md)
+
+
+## Day 86
+Created an Animated Navigation!
+
+For more information click here - [Day 86](Day86/Day86.md)
