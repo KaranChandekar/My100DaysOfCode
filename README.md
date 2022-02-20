@@ -498,3 +498,9 @@ For more information click here - [Day 82](Day82/Day82.md)
 Created an Event KeyCodes project!
 
 For more information click here - [Day 83](Day83/Day83.md)
+
+
+## Day 84
+Created a FAQ collapse project!
+
+For more information click here - [Day 84](Day84/Day84.md)
