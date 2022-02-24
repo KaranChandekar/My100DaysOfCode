@@ -516,3 +516,9 @@ For more information click here - [Day 85](Day85/Day85.md)
 Created an Animated Navigation!
 
 For more information click here - [Day 86](Day86/Day86.md)
+
+
+## Day 87
+Created a Social media followers increment counter!
+
+For more information click here - [Day 87](Day87/Day87.md)
