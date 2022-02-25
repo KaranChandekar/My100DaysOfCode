@@ -11,7 +11,7 @@ Created a Animated Navigation!
 
 ## Visit
 
- - [Github-repo](https://github.com/KaranChandekar/50projects50days/tree/master/random-choice-picker)
+ - [Github-repo](https://github.com/KaranChandekar/50projects50days/tree/master/animated-navigation)
 
  
 ## about me
