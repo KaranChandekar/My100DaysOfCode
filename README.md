@@ -522,3 +522,9 @@ For more information click here - [Day 86](Day86/Day86.md)
 Created a Social media followers increment counter!
 
 For more information click here - [Day 87](Day87/Day87.md)
+
+
+## Day 88
+Created a Drink Water project!
+
+For more information click here - [Day 88](Day88/Day88.md)
