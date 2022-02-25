@@ -1,6 +1,6 @@
-# Day 86
+# Day 87
 
-Created a Animated Navigation!
+Created a Social media followers increment counter!
 
 
 ## what I did today,
