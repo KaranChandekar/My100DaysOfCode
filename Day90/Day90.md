@@ -20,3 +20,7 @@ Completed The Movie App project!
  - [Twitter](https://twitter.com/karan_chandekar)
  - [Linkedin](https://www.linkedin.com/in/karan-chandekar-a87263219/)
 
+
+## Demo
+
+![Screenshot (92)](https://user-images.githubusercontent.com/93200960/155851676-da0113be-d222-4cac-9833-a7382b9d43d3.png)
