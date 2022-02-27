@@ -548,6 +548,12 @@ Revise Backend!
 For more information click here - [Day 91](Day91/Day91.md)
 
 
+## Day 92
+Created a Background Slider
+
+For more information click here - [Day 92](Day92/Day92.md)
+
+
 ## Day 93
 Created a Theme Clock
 
