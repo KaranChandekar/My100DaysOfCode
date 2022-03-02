@@ -564,3 +564,9 @@ For more information click here - [Day 93](Day93/Day93.md)
 Created a Button Ripple Effect
 
 For more information click here - [Day 94](Day94/Day94.md)
+
+
+## Day 95
+Created a Kinetic Loader
+
+For more information click here - [Day 95](Day95/Day95.md)
