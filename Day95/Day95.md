@@ -21,3 +21,9 @@ Created a Kinetic Loader Effect!
  - [Twitter](https://twitter.com/karan_chandekar)
  - [Linkedin](https://www.linkedin.com/in/karan-chandekar-a87263219/)
 
+
+## Demo
+
+
+https://user-images.githubusercontent.com/93200960/156394373-2c12c789-ae88-4754-af84-81f570eb0f72.mp4
+
