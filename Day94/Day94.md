@@ -13,7 +13,7 @@ Created a Button Ripple Effect!
 
 ## Visit
 
- - [Github-repo](https://github.com/KaranChandekar/ThemeClock)
+ - [Github-repo](https://github.com/KaranChandekar/50projects50days/tree/master/button-ripple)
 
  
 ## about me
