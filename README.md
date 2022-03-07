@@ -570,3 +570,9 @@ For more information click here - [Day 94](Day94/Day94.md)
 Created a Kinetic Loader
 
 For more information click here - [Day 95](Day95/Day95.md)
+
+
+## Day 96
+Created a Content Placeholder
+
+For more information click here - [Day 96](Day96/Day96.md)
