@@ -594,3 +594,9 @@ For more information click here - [Day 98](Day98/Day98.md)
 NFT Preview Card Component
 
 For more information click here - [Day 99](Day99/Day99.md)
+
+
+## Day 100
+Revised my 100daysofcode challenge!
+
+For more information click here - [Day 100](Day100/Day100.md)
