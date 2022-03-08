@@ -20,3 +20,7 @@ Solved another Frontend Mentor challenge!
  - [Twitter](https://twitter.com/karan_chandekar)
  - [Linkedin](https://www.linkedin.com/in/karan-chandekar-a87263219/)
 
+
+## Demo
+
+![Screenshot (110)](https://user-images.githubusercontent.com/93200960/157266956-01cb10ea-b1da-4ade-8f60-e077d5123c5a.png)
