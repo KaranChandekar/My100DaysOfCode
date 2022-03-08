@@ -7,7 +7,7 @@ Created a Content Placeholder!
 
  - Today I create a simple project called Content Placeholder
  - This project is inspried by Brad Traversi's 50projects50days Challenge
- - created this project only with html and css
+ - created this project with html, css and javascript
 
 
 
@@ -21,3 +21,7 @@ Created a Content Placeholder!
  - [Twitter](https://twitter.com/karan_chandekar)
  - [Linkedin](https://www.linkedin.com/in/karan-chandekar-a87263219/)
 
+
+## Demo
+
+![Screenshot (99)](https://user-images.githubusercontent.com/93200960/157267866-214792a5-f080-4cef-9553-a5daf0a020f0.png)
