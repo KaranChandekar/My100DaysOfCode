@@ -588,3 +588,9 @@ For more information click here - [Day 97](Day97/Day97.md)
 QR Code Component
 
 For more information click here - [Day 98](Day98/Day98.md)
+
+
+## Day 99
+NFT Preview Card Component
+
+For more information click here - [Day 99](Day99/Day99.md)
