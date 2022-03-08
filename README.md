@@ -582,3 +582,9 @@ For more information click here - [Day 96](Day96/Day96.md)
 Created a Drag N Drop project
 
 For more information click here - [Day 97](Day97/Day97.md)
+
+
+## Day 98
+QR Code Component
+
+For more information click here - [Day 98](Day98/Day98.md)
